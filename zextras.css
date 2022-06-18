@@ -2381,7 +2381,7 @@ html[data-ispasswordrecoverypage] .WindowOuterContainer .DwtDialogButtonBar > ta
 	#zb__App__Options_title,
 	[id^="zb__App__com_zextras_drive"][id$="_title"],
 	[id^="zb__App__com_zextras_team"][id$="_title"]{
-		display: none;
+		/* display: none; */
 	}
 	.search_input,
 	.search_input-expanded{
@@ -2404,7 +2404,7 @@ html[data-ispasswordrecoverypage] .WindowOuterContainer .DwtDialogButtonBar > ta
 	.DwtShell > .ZToolbar [id$="__SAVE_FILE_title"],
 	.DwtShell > .ZToolbar [id$="__NEW_FILE_title"],
 	.DwtShell > .ZToolbar [id$="__ACTIONS_MENU_title"]{
-		display: none;
+		/* display: none; */
 	}
 	#ztb__TKL-main_items > td:first-child .ZWidgetTitle,
 	#ztb__TKL-main_items > td:nth-child(3) .ZWidgetTitle{
